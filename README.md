@@ -1,6 +1,11 @@
 # Resturant Review
 
 This repository contains a simple Solana program for managing reviews. Users can add and update reviews, and the state of the reviews is stored on-chain. The program is complemented by a basic React frontend for interacting with the Solana blockchain.
+# Location Page
+![App Screenshot](https://drive.google.com/uc?id=1H47QLWU85ZocvC11UN_0QyY-t3c9BbKD) 
+
+# Wallet Selection Page
+![App Screenshot](https://drive.google.com/uc?id=1Dkx0FBaVELIq1hDmRWHLhSpnVyen9fg5) 
 
 ## Smart Contract
 
