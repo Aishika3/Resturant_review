@@ -1,4 +1,4 @@
-# This repo is being forked from a repo under Solana Bootcamp under Risein where I contributed new feature location of restaurant access was added and modified the payment method and submitted this new repo for evaluation the repo where I contributed is private so this is my repo
+
 # Resturant Review
 
 This repository contains a simple Solana program for managing reviews. Users can add and update reviews, and the state of the reviews is stored on-chain. The program is complemented by a basic React frontend for interacting with the Solana blockchain.
